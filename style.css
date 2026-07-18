@@ -124,6 +124,7 @@ p{
 .menu a:hover{
     background: #f2f2f2;
 }
+
 .product-card{
     background: white;
     margin: 15px;
@@ -136,11 +137,14 @@ p{
     margin-top: 0;
     color: #007BFF;
 }
+
 .islamic-banner{
     margin-top: 30px;
     padding: 50px 20px;
     background: url("islamic-illustration-background-with-mosque-lanterns_47987-28445.jpg") center/cover no-repeat;
     text-align: center;
+    border-radius: 10px;
+    overflow: hidden;
 }
 
 .islamic-banner h2{
